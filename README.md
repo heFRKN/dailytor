@@ -66,7 +66,9 @@ sw.js, manifest.json, offline.html   PWA files
 Calorie and nutrition values are estimates and are not medical advice.
 
 ### License
-[MIT](LICENSE)
+**PolyForm Noncommercial 1.0.0** — see [LICENSE.md](LICENSE.md).
+
+You are free to read, study, modify and use this project for **non-commercial** purposes (personal use, learning, hobby projects, research). **Any commercial use is not allowed** — including selling it, offering it as a paid service, or using it in a commercial product. For commercial licensing, contact the author via GitHub.
 
 ---
 
@@ -132,4 +134,6 @@ sw.js, manifest.json, offline.html   PWA dosyaları
 Kalori ve besin değerleri tahminidir, tıbbi tavsiye yerine geçmez.
 
 ### Lisans
-[MIT](LICENSE)
+**PolyForm Noncommercial 1.0.0** — bkz. [LICENSE.md](LICENSE.md).
+
+Bu projeyi **ticari olmayan** amaçlarla (kişisel kullanım, öğrenme, hobi projeleri, araştırma) inceleyebilir, değiştirebilir ve kullanabilirsin. **Her türlü ticari kullanım yasaktır** — satmak, ücretli hizmet olarak sunmak veya ticari bir üründe kullanmak dahil. Ticari lisans için GitHub üzerinden yazara ulaş.
