@@ -1,0 +1,18 @@
+# Secrets / Gizli bilgiler
+config/gemini.php
+.env
+
+# User uploads / Kullanıcı yüklemeleri
+img/uploads/*
+!img/uploads/.gitkeep
+
+# Database dumps with data / Veri içeren dökümler
+*.sql
+!database/dailytor.sql
+
+# Editor & tooling
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
